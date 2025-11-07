@@ -50,3 +50,6 @@ Os dados coletados são enviados simultaneamente para:
      Gráficos Web        MQTT Dashboard (App)
 
 
+Link para Wokwi: https://wokwi.com/projects/442307023172067329
+
+
